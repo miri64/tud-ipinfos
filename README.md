@@ -65,11 +65,8 @@ IP infos are written to `testres01`
 ## Requirements
 python3
 ```
-glob
 maxminddb
 geoip2
 pyasn
 pandas
-pathlib 
-functools
 ```

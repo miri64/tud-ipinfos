@@ -1,6 +1,4 @@
-glob2
 maxminddb
 geoip2
 pyasn
 pandas
-pathlib 
